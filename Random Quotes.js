@@ -1,6 +1,6 @@
 /**
  * Daily Quotes Widget
- * Developer: [Your Name]
+ * Developer: zwivhuyaex
  *
  * This script creates a widget that displays a new inspirational quote or a random fact every day.
  * The quotes or facts are fetched from an API and displayed in a widget on the home screen of an iOS device.
